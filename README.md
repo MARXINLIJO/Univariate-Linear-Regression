@@ -45,9 +45,12 @@ plt.show()
 
 ```
 ## Output
+
+![292743635-d36f67b6-1369-499e-9c5b-5ad4cd78d64a](https://github.com/MARXINLIJO/Univariate-Linear-Regression/assets/145742540/2da96557-0312-4d60-b24e-443b94d111d7)
+
+![292743662-be0d9e36-903f-40f7-a3b4-49adfe333b7e](https://github.com/MARXINLIJO/Univariate-Linear-Regression/assets/145742540/5ff1f088-df1b-4485-abbc-3341dd4bb60e)
 </br>
-</br>
-</br>
+![292743669-b7482037-a4e4-43a1-bb6c-1e0a8f82dd7e](https://github.com/MARXINLIJO/Univariate-Linear-Regression/assets/145742540/322c5974-7ff8-4612-81cf-4aa9ba0759c7)
 </br>
 
 ## Result
